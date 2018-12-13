@@ -1,8 +1,8 @@
-# Vagrant - XWindow Client
+# Vagrant - X Window Client
 
 A Vagrant project to build a VM that can run application with GUI.
 
-The VM is configured so that X Window client application will connect to a X Window server running on the host.
+The VM is configured so that a X Window client application started there will connect to the X Window server running on the host.
 
 ## Prerequisites
 
